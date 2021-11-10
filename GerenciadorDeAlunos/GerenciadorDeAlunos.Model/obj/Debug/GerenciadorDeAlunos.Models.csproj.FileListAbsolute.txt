@@ -1,0 +1,12 @@
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\bin\Debug\GerenciadorDeConteúdo.Business.dll.config
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\bin\Debug\GerenciadorDeConteúdo.Business.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\bin\Debug\GerenciadorDeConteúdo.Business.pdb
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\bin\Debug\EntityFramework.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\bin\Debug\EntityFramework.xml
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\obj\Debug\GerenciadorDeAlunos.Models.csproj.AssemblyReference.cache
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\obj\Debug\GerenciadorDeAlunos.Models.csproj.CoreCompileInputs.cache
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\obj\Debug\GerenciadorDeAlunos.Models.csproj.CopyComplete
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\obj\Debug\GerenciadorDeConteúdo.Business.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.Model\obj\Debug\GerenciadorDeConteúdo.Business.pdb

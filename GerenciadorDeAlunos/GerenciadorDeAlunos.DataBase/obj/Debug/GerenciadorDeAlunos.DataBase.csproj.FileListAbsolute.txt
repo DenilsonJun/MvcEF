@@ -1,0 +1,15 @@
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\GerenciadorDeConteúdo.DataBase.dll.config
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\GerenciadorDeConteúdo.DataBase.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\GerenciadorDeConteúdo.DataBase.pdb
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\EntityFramework.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\GerenciadorDeConteúdo.Business.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\GerenciadorDeConteúdo.Business.pdb
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\GerenciadorDeConteúdo.Business.dll.config
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\EntityFramework.xml
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\obj\Debug\GerenciadorDeAlunos.DataBase.csproj.AssemblyReference.cache
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\obj\Debug\GerenciadorDeAlunos.DataBase.csproj.CoreCompileInputs.cache
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\obj\Debug\GerenciadorDeAlunos.DataBase.csproj.CopyComplete
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\obj\Debug\GerenciadorDeConteúdo.DataBase.dll
+C:\Repository\GerenciadorDeAlunos\GerenciadorDeAlunos\GerenciadorDeAlunos.DataBase\obj\Debug\GerenciadorDeConteúdo.DataBase.pdb
